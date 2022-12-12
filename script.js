@@ -129,4 +129,4 @@ console.log(getSqrtByBinarySearch(9));
 console.log(getSqrtBySequentialSelection(4));
 console.log(getSqrtByBinarySearch(4));
 
-console.log("----------------");
+console.log("-----------");
